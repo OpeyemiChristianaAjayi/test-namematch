@@ -14,6 +14,7 @@ st.set_page_config(
 )
 
 # API Configuration
+API_BASE_URL= "https://namematchbk-c2ecaaaqcjhccsbz.australiaeast-01.azurewebsites.net
 API_BASE_URL = "http://127.0.0.1:8000"  # Adjust this to your API URL
 API_ENDPOINT = f"{API_BASE_URL}/api/v1/utility/util"
 
